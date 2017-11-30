@@ -1,5 +1,6 @@
 # Welcome to my Lab!
 ![](pics/Science_Lab-0.png)
+
 -----------------------------------------------------------------------------------------------------------------------------------
 
 *Here you can find a collection of Jupyter Notebooks full of Python code and nice visualizations of my projects mainly in Econometrics and Machine Learning.*
