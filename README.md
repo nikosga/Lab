@@ -1,6 +1,8 @@
 # Welcome to my Lab!
 <img src="https://cdn.dribbble.com/users/948184/screenshots/2300936/chemestry2.gif" width="150" height="150" />
+
 -----------------------------------------------------------------------------------------------------------------------------------
+
 *Here you can find a collection of Jupiter Notebooks full of Python code and nice visualizations of my projects mainly in Econometrics and Machine Learning.*
 ## Thesis Project
 
