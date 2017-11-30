@@ -3,7 +3,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-*Here you can find a collection of Jupiter Notebooks full of Python code and nice visualizations of my projects mainly in Econometrics and Machine Learning.*
+*Here you can find a collection of Jupyter Notebooks full of Python code and nice visualizations of my projects mainly in Econometrics and Machine Learning.*
 ## Thesis Project
 
 ### [Part 1](https://nbviewer.jupyter.org/github/nikosga/Lab/blob/master/Thesis/Part%201__Data%20Cleaning.ipynb)
