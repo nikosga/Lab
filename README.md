@@ -1,5 +1,5 @@
 # Welcome to my Lab!
-<img src="https://vignette.wikia.nocookie.net/science/images/c/c9/Science_Lab.gif/revision/latest?cb=20150203114103"/>
+![](https://vignette.wikia.nocookie.net/science/images/c/c9/Science_Lab.gif/revision/latest?cb=20150203114103)
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
