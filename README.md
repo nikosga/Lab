@@ -2,6 +2,7 @@
 
 ![](https://vignette.wikia.nocookie.net/science/images/c/c9/Science_Lab.gif/revision/latest?cb=20150203114103)
 
+![](pics/Science_Lab-0.png)
 -----------------------------------------------------------------------------------------------------------------------------------
 
 *Here you can find a collection of Jupyter Notebooks full of Python code and nice visualizations of my projects mainly in Econometrics and Machine Learning.*
