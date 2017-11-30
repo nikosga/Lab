@@ -1,5 +1,5 @@
 # Welcome to my Lab!
-<img src="https://cdn.dribbble.com/users/948184/screenshots/2300936/chemestry2.gif" width="150" height="150" />
+<img src="https://vignette.wikia.nocookie.net/science/images/c/c9/Science_Lab.gif/revision/latest?cb=20150203114103"/>
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
