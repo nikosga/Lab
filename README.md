@@ -1,4 +1,5 @@
 ## Thesis Project
+This is the lab part of my thesis for my master's degree in Economic Theory. It's an Applied Machine Learning approach to the field of Happiness Economics. Several datasets and ML algorithms are combined in order to provide insights to the things that make people happy on a large scale. Does money buy happiness?
 
 Chapter | Description
 --------|------------
